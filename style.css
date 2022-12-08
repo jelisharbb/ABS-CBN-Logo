@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+canvas {
+  padding: 10px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 20%);
+}
+
+#canvas {
+  border: 2px solid black;
+}
